@@ -1,0 +1,9 @@
+tqdm
+numpy==1.21.5
+opencv-python
+scipy
+scikit-image
+matplotlib
+absl-py
+pillow
+Cython==0.29.2
